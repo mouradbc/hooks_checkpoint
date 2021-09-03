@@ -1,0 +1,21 @@
+body{
+    margin:auto 50px;
+    background-color: black;
+}
+.topnav{
+    background-color: red;
+}
+
+.MuiButton-containedSecondary {
+    color: #000 !important;
+    background-color: #f50057;
+}
+.cancel-btn{
+    margin-right: 20px;
+}
+.MuiButtonBase-root{
+    margin-right: 10px !important;
+}
+.search-input{
+    color: blanchedalmond;
+}
